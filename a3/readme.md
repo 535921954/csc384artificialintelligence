@@ -1,1 +1,1 @@
-bayniesnetwork and variable elimination solves some ?? medical problems.
+bayniesnetwork and variable elimination
