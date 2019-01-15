@@ -1,0 +1,2 @@
+# csc384artificialintelligence
+assignments for artificial intelligence
